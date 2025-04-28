@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Great Success!",
+        "author": "Irfan Ahmed",
+        "year": "2025",
+        "genre": "success",
+        "read": false
+    },
+    {
+        "title": "ada",
+        "author": "dfs",
+        "year": "3424",
+        "genre": "dgg",
+        "read": true
+    },
+    {
+        "title": "sdf",
+        "author": "gfh",
+        "year": "2133",
+        "genre": "science",
+        "read": false
+    }
+]
